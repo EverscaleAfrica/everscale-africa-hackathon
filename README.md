@@ -1,4 +1,4 @@
-# ↗ Everscale Africa Hackathon
+# ↗ Everscale Africa Hackathon Sample
 
 This Hackathon is intended to provide the students of higher institutions in Africa with an early exposure to the career and business opportunities being presented by the Blockchain/DLT digital innovations.
 
